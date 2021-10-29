@@ -8,4 +8,14 @@
 - 💬 Favourite Quote: If You Fail,Never Give Up. Because Fail Means "First Attempt In Learning"...
 - 📫 How to reach me: giribabu7373@gmail.com ...
 
-### Tools
+### Languages and Tools:
+
+- [Python] (https://www.python.org)
+- [R Studio] (https://www.rstudio.com/)
+- [Numpy] (https://numpy.org/)
+- [Pandas] (https://pandas.pydata.org/)
+- [Scikit-Learn] (https://scikit-learn.org/stable/)
+- [Tensorflow] (https://www.tensorflow.org/)
+- [Pytorch] (https://pytorch.org/)
+
+![Python](http://url/to/img.png)
