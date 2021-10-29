@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-- [Python] (https://www.python.org)
+- ![Python] (https://github.com/GIRI10/Images/blob/Default/Python.jpg) (https://www.python.org)
 - [R Studio] (https://www.rstudio.com/)
 - [Numpy] (https://numpy.org/)
 - [Pandas] (https://pandas.pydata.org/)
@@ -18,4 +18,4 @@
 - [Tensorflow] (https://www.tensorflow.org/)
 - [Pytorch] (https://pytorch.org/)
 
-![Python](http://url/to/img.png)
+![Python](https://github.com/GIRI10/Images/blob/Default/Python.jpg) (https://www.python.org)
