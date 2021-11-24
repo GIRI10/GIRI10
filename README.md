@@ -1,4 +1,5 @@
-# Hello there 👋, I'm Giri Babu M L 😎😎
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Giri Babu M L</h1>
+<h3 align="center">I'm a passionate Data Scientist from India.</h3>
 
 ### About Me:
 
@@ -19,3 +20,5 @@
 - [Pytorch] (https://pytorch.org/)
 
 ![Python](https://github.com/GIRI10/Images/blob/Default/Python.jpg) (https://www.python.org)
+
+
